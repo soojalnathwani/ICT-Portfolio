@@ -1,2 +1,6 @@
 # ICT-Portfolio
-This Repository is for my AICT tasks which I complete in my university.
+
+Name: Soojal Nathwani 
+Program: BS(Computer Science)
+Semester: First
+This Repository is created for my ICT assignment.
